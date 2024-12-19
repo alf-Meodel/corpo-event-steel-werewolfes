@@ -1,7 +1,7 @@
 # Règles de gestion
 
 ## Gestion des utilisateurs
-1 un utilsateur peut être un admin où un collaborateur
+1 un utilsateur peut être un admin ou un collaborateur
 2 un utilisateur peut se connecter
 3 un utilisateur peut se déconnecter
 4 un utilisateur non authentifié est considéré comme un visiteuur
@@ -12,6 +12,7 @@
 un utilisateur possede un nom
 un utilisateur possede un prenom
 un utilisateur possede un mail
+un utilisateur passe un mot de passe
 
 ## Gestion des évenements
 1 un evenement peut etre créé par un admin ou un collaborateur
