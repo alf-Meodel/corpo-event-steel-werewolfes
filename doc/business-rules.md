@@ -24,4 +24,4 @@ un utilisateur possede un mail
 un evenement possede un titre
 un evenmement possede une description 
 un evennement possede une date de fin 
-un evee possede un lieu
+un evenement possede un lieu
