@@ -29,4 +29,3 @@ un evenement possede un lieu
 Un admin peut supprimer un commentaire
 Un collaborateur ou un admin peut modifier son commentaire
 Un collaborateur peut supprimer son commentaire
-un collaborateur peut supprimer les commentaires de son evenement
