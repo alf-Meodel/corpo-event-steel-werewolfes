@@ -1,6 +1,7 @@
 # Règles de gestion
 
 ## Gestion des utilisateurs
+
 1 un utilsateur peut être un admin où un collaborateur
 2 un utilisateur peut se connecter
 3 un utilisateur peut se déconnecter
@@ -14,6 +15,7 @@ un utilisateur possede un prenom
 un utilisateur possede un mail
 
 ## Gestion des évenements
+
 1 un evenement peut etre créé par un admin ou un collaborateur
 2 un collaborateur peut modifier l'evenement qu'il a créé
 3 un collaborateur peut supprimer l'évenement quil a créé
@@ -22,8 +24,8 @@ un utilisateur possede un mail
 6 un admin peut modifier n'importequel evenement
 7 un admin peut supprimer n'imorte quel evenment
 un evenement possede un titre
-un evenmement possede une description 
-un evennement possede une date de fin 
+un evenmement possede une description
+un evennement possede une date de fin
 un evenement possede un lieu
 Un admin peut supprimer un commentaire
 Un collaborateur ou un admin peut modifier son commentaire
