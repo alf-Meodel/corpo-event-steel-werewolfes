@@ -25,3 +25,6 @@ un evenement possede un titre
 un evenmement possede une description 
 un evennement possede une date de fin 
 un evenement possede un lieu
+Un admin peut supprimer un commentaire
+Un collaborateur peut supprimer son commentaire
+un collaborateur peut supprimer les commentaires de son evenement
